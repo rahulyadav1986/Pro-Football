@@ -8,7 +8,7 @@ const LoginItem = ()=>{
         SetClickPassword(!ClickPassword)
     }
     const handleClickGithub = ()=>{
-        signIn('Github',{ callbackUrl: "https://pro-football-6pfm.vercel.app/"})
+        signIn()
     }
     return(
         <>
