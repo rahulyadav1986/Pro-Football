@@ -92,7 +92,7 @@ const Header = ()=>{
                                 
                                 :
                                 <div className="button d-flex align-items-center justify-content-center" onClick={ClickLogin}>
-                                    <i class="fa-solid fa-user"></i> Login r
+                                    <i class="fa-solid fa-user"></i> Login
                                 </div>
                             }
                             
