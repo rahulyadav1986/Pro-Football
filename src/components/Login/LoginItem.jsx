@@ -8,7 +8,7 @@ const LoginItem = ()=>{
         SetClickPassword(!ClickPassword)
     }
     const handleClickGithub = ()=>{
-        signIn('Github',{ callbackUrl: "http://localhost:3000/"})
+        signIn()
     }
     return(
         <>
