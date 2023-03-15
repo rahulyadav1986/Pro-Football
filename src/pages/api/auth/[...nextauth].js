@@ -8,6 +8,7 @@ export const AuthProviders = {
             clientSecret: process.env.GITHUB_SECRET,
         })
     ]
+    
 } 
 
 export default NextAuth(AuthProviders)
