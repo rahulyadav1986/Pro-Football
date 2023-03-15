@@ -32,7 +32,7 @@ const Header = ()=>{
     }
 
     const handleClickGithub = ()=>{
-        signOut('Github',{ callbackUrl: "https://pro-football.vercel.app/api/auth/callback/github"})
+        signOut('Github',{ callbackUrl: "https://pro-football.vercel.app/"})
     }
    
     return(
