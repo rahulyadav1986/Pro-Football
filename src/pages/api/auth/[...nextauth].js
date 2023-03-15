@@ -4,8 +4,8 @@ import GithubProvider from "next-auth/providers/github";
 export const AuthProviders = {
     providers:[
         GithubProvider({
-            clientId: '98ce1b739be3ab85b63d',
-            clientSecret: '30f490f4282d6af6a3c3117cd707418e2eb7d09a'
+            clientId: 'cc2cd95de2e8db6759a2',
+            clientSecret: 'a9e4d62c39fb31017efd13311384684a337cdcbb'
         })
     ]
 } 
